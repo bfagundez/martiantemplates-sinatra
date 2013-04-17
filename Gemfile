@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'bundler'
+gem 'sinatra'
+gem 'sinatra-twitter-bootstrap'
+gem 'slim'
+gem 'feedzirra'
+gem 'sequel'
